@@ -1,0 +1,14 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+#project_title
+{
+color:rgb(205,31,40);
+font-family:Lucida Handwriting;
+}

@@ -1,0 +1,33 @@
+body {
+
+}
+
+#header {
+background-color:rgb(249,236,236);
+}
+
+#form_headings {
+color:rgb(205,31,40);
+font-family:Segoe UI;
+font-size:18;
+}
+
+#form_sub_headings {
+font-family:Segoe UI;
+}
+
+#form_textboxes {
+font-family:Segoe UI;
+}
+
+select option {
+    color:rgb(205,31,40);
+    }
+	
+select {
+    color:rgb(205,31,40);
+	cursor:pointer;
+	box-shadow: 0 1px 0 #ccc, 0 -1px #eaeaea inset;
+    }
+	
+
